@@ -6,7 +6,7 @@ Tool Used: Power BI, MS EXCEL
 Objective: To analyze Amazon product sales performance and identify trends, top-selling categories, and customer engagement through an interactive Power BI dashboard.
 
 Dataset Overview:
-- Source: Sample e-commerce sales dataset (Amazon-style)
+- Source: Sample e-commerce sales dataset (Amazon)
 - Size: 80,000+ rows
 - Fields Included: Product, Category, Sales, Quantity, Reviews, Date
 
